@@ -1,0 +1,26 @@
+# This references a standard debian container from the
+# Docker Hub httpsregistry.hub.docker.com_debian
+# Read more about containers on our dev center
+# httpsdevcenter.wercker.comoverview-and-core-conceptscontainers
+box debian
+# You can also use services such as databases. Read more on our dev center
+# httpsdevcenter.wercker.comadministrationservices
+# services
+    # - postgres
+    # httpsdevcenter.wercker.comadministrationservicesexamplespostgresql
+
+    # - mongo
+    # httpsdevcenter.wercker.comadministrationservicesexamplesmongodb
+
+# This is the build pipeline. Pipelines are the core of wercker
+# Read more about pipelines on our dev center
+# httpsdevcenter.wercker.comdevelopmentpipelines
+build
+    # Steps make up the actions in your pipeline
+    # Read more about steps on our dev center
+    # httpsdevcenter.wercker.comdevelopmentsteps
+  steps
+    - script
+        name echo
+        code 
+          echo hello world!
