@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-12T07:20:45.184Z</updated>
+  <updated>2022-05-12T07:21:49.628Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/05/12/%E5%A8%83%E5%93%88%E5%93%88/%E6%B5%8B%E8%AF%95/"/>
     <id>http://example.com/2022/05/12/%E5%A8%83%E5%93%88%E5%93%88/%E6%B5%8B%E8%AF%95/</id>
     <published>2022-05-12T11:45:38.000Z</published>
-    <updated>2022-05-12T07:20:45.184Z</updated>
+    <updated>2022-05-12T07:21:49.628Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成<br>123 测试生成</p>]]></content>
     
@@ -33,6 +33,8 @@
     
     
     
+    
+    <category term="伤寒论" scheme="http://example.com/tags/%E4%BC%A4%E5%AF%92%E8%AE%BA/"/>
     
   </entry>
   
