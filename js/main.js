@@ -296,8 +296,8 @@ function scrollOn() {
       $footer = $('#footer'),
       $togglei = $('#sidebar-toggle i');
 
-  $togglei.addClass('fa-arrow-left');
-  $togglei.removeClass('fa-arrow-right');
+  $togglei.addClass('fa-outdent');
+  $togglei.removeClass('fa-indent');
   $sidebar.addClass('on');
   $sidebar.removeClass('off');
 
@@ -318,8 +318,8 @@ function scrollOff() {
       $footer = $('#footer'),
       $togglei = $('#sidebar-toggle i');
 
-  $togglei.addClass('fa-arrow-right');
-  $togglei.removeClass('fa-arrow-left');
+  $togglei.addClass('fa-indent');
+  $togglei.removeClass('fa-outdent');
   $sidebar.addClass('off');
   $sidebar.removeClass('on');
 
