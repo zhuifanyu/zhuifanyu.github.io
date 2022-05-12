@@ -69,7 +69,9 @@ a {
 }
 #sidebar-toggle{
 	font-size: 30px;
+	color:#7a7878;
 	background-color: rgba(0,0,0,0);
+	cursor: pointer;
 	filter: alpha(opacity = 50);
 	top: 60px;
 	left: 260px;
