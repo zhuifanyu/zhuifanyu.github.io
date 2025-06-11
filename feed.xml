@@ -3,10 +3,30 @@
     <title>观壬童</title>
     <link href="https://zhuifanyu.github.io/feed.xml" rel="self" />
     <link href="https://zhuifanyu.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-06-11T11:32:43+08:00</updated>
     <author>
         <name>观壬童</name>
     </author>
     <id>https://zhuifanyu.github.io</id>
 
+    <entry>
+        <title>测试1</title>
+        <author>
+            <name>观壬童</name>
+        </author>
+        <link href="https://zhuifanyu.github.io/ce-shi-1.html"/>
+        <id>https://zhuifanyu.github.io/ce-shi-1.html</id>
+
+        <updated>2025-06-11T11:32:43+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>测试1</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
