@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zhuifanyu.github.io/sitemap.xml
